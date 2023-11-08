@@ -2,8 +2,6 @@
 
 Este é um projeto de calculadora simples desenvolvido usando React. É uma aplicação de código aberto que permite que os usuários realizem operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
 
-![Calculadora Simples em React](link_para_screenshot.png)
-
 ## Funcionalidades
 
 - Adição (+)
