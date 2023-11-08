@@ -22,14 +22,16 @@ bash git clone https://github.com/Ronald-Luiz/Calculator.git
 ```
 
 2. Instale as dependências:
+   
 ```npm install```
 
-3. Inicie o aplicativo:
+4. Inicie o aplicativo:
+   
 ```npm start```
 
 O aplicativo será executado localmente em http://localhost:3000.
 
-Uso
+Uso: 
 Insira números e use os botões de operação para realizar cálculos.
 O resultado da operação atual será exibido na tela.
 
