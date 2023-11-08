@@ -23,7 +23,7 @@ bash git clone https://github.com/Ronald-Luiz/Calculator.git
    
 ```npm install```
 
-4. Inicie o aplicativo:
+3. Inicie o aplicativo:
    
 ```npm start```
 
