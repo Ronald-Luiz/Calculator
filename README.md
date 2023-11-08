@@ -18,7 +18,8 @@ Certifique-se de ter o Node.js instalado em seu sistema. Se você ainda não o t
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/Ronald-Luiz/Calculator.git```
+git clone https://github.com/Ronald-Luiz/Calculator.git
+```
 
 2. Instale as dependências:
 ```npm install```
